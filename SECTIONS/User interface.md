@@ -43,3 +43,5 @@
 * saved data
 * logout
 
+
+<img src="http://users.metropolia.fi/~banafshr/mockup.png">
