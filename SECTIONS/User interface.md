@@ -1,20 +1,20 @@
 ### User Interface
 
-views
-starting screen
-login
-saved data
-browse
-item information
-scan
-sign up
-upload (designers)
-Settings (admin)
-components
-logo
-previous page button
-scan button
-sidebar
+1. views
+* starting screen
+* login
+* saved data
+* browse
+* item information
+* scan
+* sign up
+* upload (designers)
+* settings (admin)
+2. components
+* logo
+* previous page button
+* scan button
+* sidebar
 
 Pages:
 
