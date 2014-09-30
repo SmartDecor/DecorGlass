@@ -20,7 +20,7 @@ During registration,  general users will be prompted a unique username, password
 To be a designer or someone who can contribute their appliances to DecorGlass for other users, they will have to send their credentials and other verification to the administrator for approval. This can be done by email or slow-mail.
 
 
-### Realibility
+### Reliability
 We value our users and their rights to keep their information private. Their credentials are well encrypted in our database behind protected state of the art servers and they are well monitored by advance security features. Since the application does not have any monetary transaction as they will be redirected to the webstore of the specific appliances, they will not be required to key in any bank information into the system.
 
 To purchase any product, the user will first have to login their information into the application. Their cart will be they filled with whatever they have chosen previously. When they choose to purchase, they will be redirected to the specific webstore which they would require their personal bank information. Any failure of purchase through the webstore will not have any affect to the application. The users are then advised to contact the webstore to straighten out any unfortunate events.
