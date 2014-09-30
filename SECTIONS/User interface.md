@@ -1,6 +1,6 @@
 ### User Interface
 
-1) views
+###### 1) views
 
 * starting screen
 * login
@@ -12,7 +12,7 @@
 * upload (designers)
 * settings (admin)
 
-2) components
+###### 2) components
 * logo
 * previous page button
 * scan button
