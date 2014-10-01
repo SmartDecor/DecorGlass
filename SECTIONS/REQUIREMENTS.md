@@ -24,10 +24,6 @@
 * Decorate.Share
 
 
-
-
-
-
 #### Non-functional Requirements
 
 ##### Usability
