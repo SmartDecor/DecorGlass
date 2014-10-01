@@ -6,3 +6,5 @@ DecorGlass is an interior design preview software that uses AR<sup>1</sup> techn
  
 DecorGlass will not require the user login to use it, however, the software will provide the login feature for customers who might want to save certain settings or designs. It is also to be mentioned that DecorGlass is a third-party app and will not have a web store of its own. If the users decide to buy specific furniture, the software will redirect them to the web store of said company where the users will need to abide by their conditions and terms.
 
+<hr/>
+1. Augmented reality.
