@@ -36,12 +36,12 @@
 * previous page button - on the upper left corner of screen
 * scan button - only when camera is activated. on the middle lower side of the screen
 * sidebar - icon in the upper right corner of the screen. contains:
-* search bar 
-* option to login/sign up for visitors
-* scan
-* browse
-* saved data
-* logout
+  * search bar 
+  * option to login/sign up for visitors
+  * scan
+  * browse
+  * saved data
+  * logout
 
 
 
