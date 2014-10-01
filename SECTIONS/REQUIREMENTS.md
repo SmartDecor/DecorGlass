@@ -2,26 +2,26 @@
 ## System Requirements
 
 * Functional Requirements
-*Scan.Login
-*Scan.Logout
-*Scan.Settings
-*Scan.Camera               The smart device will automatically access the camera function and start taking a panaromic image of the area. The application will compute the image and output a virtual reality of the room.
-*Scan.Save                 Save the file into the application.
-*Scan.Delete               The user is able to delete the file from the application.
-*Scan.Upload               The system will provide a way to upload any virtual room to another user who is using the same application.
-*Scan.Download
+* Scan.Login
+* Scan.Logout
+* Scan.Settings
+* Scan.Camera               The smart device will automatically access the camera function and start taking a panaromic image of the area. The application will compute the image and output a virtual reality of the room.
+* Scan.Save                 Save the file into the application.
+* Scan.Delete               The user is able to delete the file from the application.
+* Scan.Upload               The system will provide a way to upload any virtual room to another user who is using the same application.
+* Scan.Download
 **
-*Preview.Open
-*Preview.LookAround
-*Preview.Close
+* Preview.Open
+* Preview.LookAround
+* Preview.Close
 **
-*Decorate.Catalog.GotoWebstore
-*Decorate.Catalog.Preview
-*Decorate.Place
-*Decorate.Move
-*Decorate.Rotate
-*Decorate.Delete
-*Decorate.Share
+* Decorate.Catalog.GotoWebstore
+* Decorate.Catalog.Preview
+* Decorate.Place
+* Decorate.Move
+* Decorate.Rotate
+* Decorate.Delete
+* Decorate.Share
 
 
 
