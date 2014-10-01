@@ -10,11 +10,11 @@
 * Scan.Delete               The user is able to delete the file from the application.
 * Scan.Upload               The system will provide a way to upload any virtual room to another user who is using the same application.
 * Scan.Download
-**
+
 * Preview.Open
 * Preview.LookAround
 * Preview.Close
-**
+
 * Decorate.Catalog.GotoWebstore
 * Decorate.Catalog.Preview
 * Decorate.Place
