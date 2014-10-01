@@ -7,33 +7,9 @@ Browse.Buy Prompt login
 
 Browse.Read.Information
 
-Order.Login               The system will prompt for the  username and password when the user tapped on the log in button.
-
-Order.Login.Successful    The system will list variety of random appliances for the user to start reviewing.
-
-Order.Login.Fail          User will be prompted twice to type the correct username and password. 
-
-Order.Verify.Password     Reset password through email address provided by the user.
-
-Order.Browse              
-
-Order.Browse.AddtoCart
-
-Order.Cart
-
-Order.Cart.Amount
-
-Order.Cart.Details
-
-Order.Cart.Buy 	          Redirect to appliance’s webstore.
-
-Order.Settings    	      Change email address or password.
-
-
 Scan.Login
 
-Scan.Camera               The smart device will automatically access the camera function and start taking a panaromic image of 
-the area. The application will compute the image and output a virtual reality of the room.
+Scan.Camera               The smart device will automatically access the camera function and start taking a panaromic image of the area. The application will compute the image and output a virtual reality of the room.
 
 Scan.Save                 Save the file into the application.
 
