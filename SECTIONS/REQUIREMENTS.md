@@ -46,6 +46,7 @@ To be a designer or someone who can contribute their furniture to DecorGlass for
 
 
 ##### Reliability
+
 We value our users and their rights to keep their information private. Their credentials are well encrypted in our database behind protected state of the art servers and they are well monitored by advance security features. Since the application does not have any monetary transaction as they will be redirected to the webstore of the specific furniture, they will not be required to key in any bank information into the system.
 
 To purchase any product, the user will first have to login their information into the application. Their cart will be they filled with whatever they have chosen previously. When they choose to purchase, they will be redirected to the specific webstore which they would require their personal bank information. Any failure of purchase through the webstore will not have any affect to the application. The users are then advised to contact the webstore to straighten out any unfortunate events.
@@ -54,6 +55,7 @@ In the event of an incorrect username or password, the user will be given the op
 
 
 ##### Efficiency
+
 Our goal is to have the user feeling pleasant after using our application. This requires quick and fast response within the system to allow browsing through the various furniture feeling at ease and the user having a smooth experience throughout. Our application heavily demands the use of internet connection to get information of various vendors. However, we cannot always rely on a good internet connection every time we are outdoors. We have decided that our application will constantly gather some information and store it temporarily in the smart device to ease the users frustration during regrettable downtime period. The same principle as buffering in a video when watching it on a web browser. After the application is no longer in used, the gathered information will be deleted immediately. The application does not use a lot of memory from the smart device. This is to maximize the user experience when using the application during unfortunate circumstances. 
 
 The processing size of the application can be minimize to take into consideration of other applications the user is using. The sizes of the pictures will always be kept small during the browsing period. When the user decides on viewing the product, they would just have to tap on their device and the higher resolution picture of the product will be immediately downloaded through their smart devices. This is to ensure that the usage of  the connection speed is being maximize and will prevent unnecessary bandwidth downloads when using the application.
