@@ -26,7 +26,8 @@
   * logout
 * camera view - view from the camera
 
-
+<br/>
+<br/>
 
 
 <img src="http://users.metropolia.fi/~banafshr/mockup.png">
