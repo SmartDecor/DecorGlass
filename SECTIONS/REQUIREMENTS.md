@@ -2,9 +2,6 @@
 ## System Requirements
 
 * Functional Requirements
-
-
-
 *Scan.Login
 *Scan.Logout
 *Scan.Settings
