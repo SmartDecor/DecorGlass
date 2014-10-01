@@ -1,7 +1,7 @@
 
 ## System Requirements
 
-### Functional Requirements
+#### Functional Requirements
 * Scan.Login
 * Scan.Logout
 * Scan.Settings
@@ -28,7 +28,7 @@
 
 
 
-* Non-functional Requirements
+#### Non-functional Requirements
 
 ### Usability
 
