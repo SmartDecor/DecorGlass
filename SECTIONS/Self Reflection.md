@@ -1,6 +1,6 @@
 ### Self Reflection
 
-####### Time spent on the project per person:
+##### Time spent on the project per person:
   Banafsheh: 16h
   Al-Hafeez: 15h
   Leo:
