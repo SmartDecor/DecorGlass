@@ -3,19 +3,26 @@
 3.1. User groups
 
 The users of DecorGlass come in the following four varieties: Guest, User, Designer, Administrator
+<table>
+<tr>
+<td>Guest</td>
+<td>An unregistered user of the application. Has access to most functionalities, but cannot use remote file storage or social media sharing. Has the unique ability to register and log in.</td>
 
-Guest
-An unregistered user of the application. Has access to most functionalities, but cannot use remote file storage or social media sharing. Has the unique ability to register and log in.
+<tr>
+<td>User</td>
+<td>The basic user class. Has access to all functionality except catalog editing.</td>
+</tr>
 
-User
-The basic user class. Has access to all functionality except catalog editing.
+<tr>
+<td>Designer</td>
+<td>A certified designer, who can add items to the catalog as well as edit and remove their own entries. Also has access to all normal functionality.</td>
+</tr>
 
-Designer
-A certified designer, who can add items to the catalog as well as edit and remove their own entries. Also has access to all normal functionality.
-
-Administratpr
-A person in charge of maintaining the service. Can edit and remove all catalog entries and change the privileges of other users. 
-
+<tr>
+<td>Administrator</td>
+<td>A person in charge of maintaining the service. Can edit and remove all catalog entries and change the privileges of other users. </td>
+</tr>
+</table>
 
 3.2. Use case diagram
 
