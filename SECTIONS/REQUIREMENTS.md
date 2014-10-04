@@ -11,17 +11,17 @@
 * Scan.Upload               The system will provide a way to upload any virtual room to another user who is using the same application.
 * Scan.Download             The user is able to download the layout into their smart devices.
 
-* Preview.Open              
-* Preview.LookAround
-* Preview.Close
+* Preview.Open              User is presented with the option to open an existing layout.
+* Preview.LookAround        They are given the functions to view the layout to their wish.
+* Preview.Close             Closes the preview option and brings the user to the main page.
 
-* Decorate.Catalog.GotoWebstore       
-* Decorate.Catalog.Preview
-* Decorate.Place
-* Decorate.Move
-* Decorate.Rotate
-* Decorate.Delete
-* Decorate.Share
+* Decorate.Catalog.GotoWebstore       When user selects the webstore it will bring them to the designated store to pruchase their product.
+* Decorate.Catalog.Preview            In the decorate section, they are given access to preview existing products from the vendors.
+* Decorate.Place                      Users are able to drag their products into the layout.
+* Decorate.Move                       They are also given the option to move the product.
+* Decorate.Rotate                     The rotation tool gives the user more options and with that,they can be satisfied their outlook. 
+* Decorate.Delete                     If the user is not satisfied with how the product look in the layout, they can delete the product.
+* Decorate.Share                      After placing their product at the desired location, they can share their layout with other DecorGlass users.
 
 
 #### Non-functional Requirements
