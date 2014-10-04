@@ -1,6 +1,6 @@
-3. Use cases
+### 3. Use cases
 
-3.1. User groups
+#### 3.1. User groups
 
 The users of DecorGlass come in the following four varieties: Guest, User, Designer, Administrator
 <table>
@@ -24,13 +24,13 @@ The users of DecorGlass come in the following four varieties: Guest, User, Desig
 </tr>
 </table>
 
-3.2. Use case diagram
+#### 3.2. Use case diagram
 
 
 <img src="https://raw.githubusercontent.com/SmartDecor/DecorGlass/master/SECTIONS/usecases_diagram.png">Use case diagram</img>
 
 
-3.3. Use case scenario
+#### 3.3. Use case scenario
 
 <table>
 <tr>
