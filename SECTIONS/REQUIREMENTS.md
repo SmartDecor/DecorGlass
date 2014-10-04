@@ -2,20 +2,20 @@
 ## System Requirements
 
 #### Functional Requirements
-* Scan.Login
-* Scan.Logout
-* Scan.Settings
+* Scan.Login                To scan the user is required to login.
+* Scan.Logout               The user is presented with the logout button if he/she request to.
+* Scan.Settings             Several options like language settings and other functionality are presented in this section.
 * Scan.Camera               The smart device will automatically access the camera function and start taking a panaromic image of the area. The application will compute the image and output a virtual reality of the room.
 * Scan.Save                 Save the file into the application.
 * Scan.Delete               The user is able to delete the file from the application.
 * Scan.Upload               The system will provide a way to upload any virtual room to another user who is using the same application.
-* Scan.Download
+* Scan.Download             The user is able to download the layout into their smart devices.
 
-* Preview.Open
+* Preview.Open              
 * Preview.LookAround
 * Preview.Close
 
-* Decorate.Catalog.GotoWebstore
+* Decorate.Catalog.GotoWebstore       
 * Decorate.Catalog.Preview
 * Decorate.Place
 * Decorate.Move
